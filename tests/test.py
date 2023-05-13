@@ -1,4 +1,4 @@
-from y import y
+from yproject import y
 from matplotlib import pyplot as plt
 import numpy as np
 

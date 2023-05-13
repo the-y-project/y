@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "y"
+name = "yproject"
 version = "1.0.0"
 description = "Pipes for humans."
 readme = "README.md"
