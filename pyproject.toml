@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "y"
+version = "1.0.0"
+description = "Pipes for humans."
+readme = "README.md"
+authors = [
+    {name = "Ben Karcher", email = "s6bkarc@uni-bonn.de"},
+    {name = "", email = "wbrandon@csail.mit.edu"},
+    {name = "", email = "bdrisc@stanford.edu"},
+    {name = "", email = "fydai@berkeley.edu"},
+    {name = "Lukas Sabatschus", email = "lus@wallpen.com"},
+    {name = "Ethan Smith", email = "ethan@python.org"},
+]
+license = "MIT"
+
+[project.urls]
+Homepage = "https://y-project.dev"
+Issues = "https://github.com/the-y-project/y/issues"
