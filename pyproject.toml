@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "yproject"
-version = "1.0.1"
+version = "1.0.2"
 description = "Pipes for humans."
 readme = "README.md"
 authors = [
