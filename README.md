@@ -22,4 +22,4 @@ y / np.random.random([1000, 1000]) /\
 plt.show()
 ```
 
-![demo](assets/demo.png)
+![demo](https://raw.githubusercontent.com/the-y-project/y/main/assets/demo.png)
