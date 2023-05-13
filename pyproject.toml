@@ -10,7 +10,7 @@ readme = "README.md"
 authors = [
     {name = "Ben Karcher", email = "s6bkarc@uni-bonn.de"},
     {name = "", email = "wbrandon@csail.mit.edu"},
-    {name = "", email = "bdrisc@stanford.edu"},
+    {name = "", email = "bdrisc@cs.stanford.edu"},
     {name = "", email = "fydai@berkeley.edu"},
     {name = "Lukas Sabatschus", email = "lus@wallpen.com"},
     {name = "Ethan Smith", email = "ethan@python.org"},
