@@ -15,7 +15,6 @@ authors = [
     {name = "Lukas Sabatschus", email = "lus@wallpen.com"},
     {name = "Ethan Smith", email = "ethan@python.org"},
 ]
-license = "MIT"
 
 [project.urls]
 Homepage = "https://y-project.dev"

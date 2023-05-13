@@ -5,7 +5,7 @@
 This package brings Haskell's well-loved applicative functor interface to Python in the important special case of the _identity applicative_. This allows you to write code like the following:
 
 ```python
-from src.y.y import y
+from y import y
 from matplotlib import pyplot as plt
 import numpy as np
 
