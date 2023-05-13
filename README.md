@@ -1,4 +1,6 @@
-# y
+![y](https://avatars.githubusercontent.com/u/133489024?s=50)
+
+---
 
 This package brings Haskell's well-loved applicative functor interface to Python in the important special case of the _identity applicative_. This allows you to write code like the following:
 
@@ -19,3 +21,5 @@ y / np.random.random([1000, 1000]) /\
     ...
 plt.show()
 ```
+
+![demo](assets/demo.png)
